@@ -8,7 +8,7 @@ This is a simple Telegram bot that calculates compound interest based on user in
 
 1. Clone the repository:
 
-   git clone https://github.com/yourusername/telegram-compound-interest-bot.git
+   git clone https://github.com/norahc-x/telegram-compound-interest-bot.git
    cd telegram-compound-interest-bot
    
 2. Create a `.env` file in the root directory and add your Telegram bot token:
