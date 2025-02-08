@@ -1,3 +1,5 @@
+![Calcolatrice che calcola](https://media.giphy.com/media/xyz123/giphy.gif)
+
 # Telegram Compound Interest Bot
 
 This is a simple Telegram bot that calculates compound interest based  years, then provides the final amount after interest is applied.
