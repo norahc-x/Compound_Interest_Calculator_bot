@@ -1,4 +1,3 @@
-![Calcolatrice che calcola](https://media.giphy.com/media/xyz123/giphy.gif)
 
 # Telegram Compound Interest Bot
 
@@ -8,8 +7,8 @@ This is a simple Telegram bot that calculates compound interest based  years, t
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/norahc-x/telegram-compound-interest-bot.git
-   cd telegram-compound-interest-bot
+   git clone https://github.com/norahc-x/Compound_Interest_Calculator_bot.git
+   cd Compound_Interest_Calculator_bot.git
    ```
 2. Create a `.env` file in the root directory and add your Telegram bot token:
    ```
